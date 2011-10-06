@@ -4,6 +4,7 @@
   , "private": true
   , "dependencies": {
       "express": "2.4.3"
+    , "connect": "1.7.1"
     , "mongodb": ">= 0.9.6-7"
     , "ejs": ">= 0.0.1"
   }
